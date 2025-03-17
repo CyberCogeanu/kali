@@ -1,7 +1,9 @@
+```md
 SHA256sum
 1b1a99e2d66c1392856181abc18bd94a0563bab705b6fbd0baca463c9d3faa66
 https://cdimage.kali.org/kali-2024.4/kali-linux-2024.4-vmware-amd64.7z
 kali-linux-2024.4-vmware-amd64.7z
+```
 
 ```md
 # Updating Kali Linux (VMware) to the Latest Version
