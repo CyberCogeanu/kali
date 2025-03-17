@@ -102,6 +102,7 @@ WiFi 6E 802.11ax USB WiFi adapter
 2.4Ghz / 5Ghz / 6Ghz / Tri-Band
 3 Gbps
 USB Type-C
+Chipset: MediaTek MT7921AUN
 
 ```bash
 ping -c 4 google.com
