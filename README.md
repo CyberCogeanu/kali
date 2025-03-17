@@ -101,6 +101,15 @@ To ensure no broken dependencies:
 sudo dpkg --configure -a
 sudo apt --fix-broken install
 ```
+## 9. Install drivers for Alfa Network AWUS036AXML
+WiFi 6E 802.11ax USB WiFi adapter
+2.4Ghz / 5Ghz / 6Ghz / Tri-Band
+3 Gbps
+USB Type-C
+
+```bash
+ping -c 4 google.com
+```
 
 Your Kali Linux VM is now fully updated with all available tools installed!
 ```
