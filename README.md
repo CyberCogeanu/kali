@@ -15,10 +15,6 @@ After login in termina change password for the default user kali
 ```bash
 passwd kali
 ```
-```md
-# Updating Kali Linux (VMware) to the Latest Version
-
-This guide will walk you through updating your Kali Linux pre-prepared VMware image to the latest possible version and installing all available packages.
 
 ## 1. Verify Your Internet Connection
 Before starting, ensure your VM has internet access by running:
